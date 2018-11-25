@@ -1,5 +1,4 @@
-﻿# node-express
-Projeto criado para demonstrar como podemos criar uma API com uma estrutura legal em 10 passos ;) 
+﻿# Node com SQLite
+Apenas uma demo de como gravar no SQLite usando WebApi com Express.
 
-Link do post:
-https://goo.gl/zMwY28 
+Antes de tentar excutar usando o `npm run start`, execute o `npm install` para instalar todas dependências.
